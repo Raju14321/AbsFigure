@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\AbsFig\bin\Debug\netcoreapp3.1\AbsFig.exe
+C:\Users\jacob\source\repos\AbsFig\bin\Debug\netcoreapp3.1\AbsFig.deps.json
+C:\Users\jacob\source\repos\AbsFig\bin\Debug\netcoreapp3.1\AbsFig.runtimeconfig.json
+C:\Users\jacob\source\repos\AbsFig\bin\Debug\netcoreapp3.1\AbsFig.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\AbsFig\bin\Debug\netcoreapp3.1\AbsFig.dll
+C:\Users\jacob\source\repos\AbsFig\bin\Debug\netcoreapp3.1\AbsFig.pdb
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.AssemblyInfo.cs
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.dll
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.pdb
+C:\Users\jacob\source\repos\AbsFig\obj\Debug\netcoreapp3.1\AbsFig.genruntimeconfig.cache
